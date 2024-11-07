@@ -1,0 +1,134 @@
+Inspired by companies like GitLab, which embody a “build in public” philosophy, this project aims to foster transparency, collaboration, and learning. GitLab openly shares its strategies, roadmaps, and internal processes, encouraging community feedback and improvement.
+
+The challenge for this project is to develop an interactive chatbot that allows users— the employees or aspiring employees—to easily access information from GitLab’s Handbook and Direction pages. By providing an engaging interface, the chatbot will retrieve relevant information based on user queries and help users learn in an accessible and engaging way.
+
+GitLab’s 10-year product vision is inspired by our mission to make it so that everyone can contribute. Today GitLab is the DevSecOps Platform, empowering organizations to maximize the overall return on software development by delivering software faster and efficiently, while strengthening security and compliance.
+
+First, we expect to continue rapidly maturing our DevSecOps platform so that GitLab is able to replace any DevSecOps point solution. To replace any DevSecOps solution will require most of our categories to be complete, which is likely a 10-year journey. To ensure rapid progress, we have a 3-year goal to have 50% of our categories at complete maturity by the end of 2023.
+
+Second, we expect GitLab to expand its DevSecOps platform to provide similar support for ModelOps and DataOps. Over time, data and machine learning/AI models will increasingly power software experiences. Our customers will need an ability to manage data and its associated ML/AI models in a similar fashion to software projects.
+
+Third, we expect GitLab to become a creation platform for all digital content. This will require us to expand beyond traditional software development. Possible new digital content creation formats we could support include low code/no code development, design creation, and other creative media like music and movies.
+
+We execute on our vision rapidly and efficiently by leveraging the best practices of 100,000 organizations co-developing the DevSecOps platform of their dreams. We take a seed then nurture approach to maturing our product surface area over time, all the while focusing on customer results.
+
+GitLab competes in a large market space and is uniquely positioned with a vision to offer a single application for the entire DevSecOps lifecycle. GitLab competes across numerous market segments and aims to deliver value in 80+ market categories. GitLab’s product vision is uniquely ambitious, as we were the first DevSecOps player to take a single application approach.
+
+Strategic challenges include the tension between breadth and depth, balancing GitLab.com and self-managed offerings, serving a wide customer profile, and competition from larger companies like Microsoft, Atlassian, and Synopsys.
+
+Product Strategy:
+- Focus on increasing Stages per Organization (SpO): There is a strong correlation between the number of stages customers use and their propensity to upgrade to a paid package.
+- Harness the unique power of a single application: GitLab’s primary point of differentiation is our single application approach.
+- Increase wider-community contributions: To achieve this ambitious vision more quickly, we will leverage our powerful open source community.
+- Make our core journey categories complete: We want to ensure the core product usage experience is great, which will lead to more paying customers and improved customer retention.
+- GitLab-hosted first: Most customers don't want to run GitLab themselves (self-managed), so we should build out the offerings where we do it for them (GitLab-hosted).
+
+Fiscal year guiding principles:
+- Depth over Breadth
+- Drive Adoption of Ultimate
+- Differentiate
+
+Fiscal year product investment themes:
+- Enable AI/ML Efficiencies Across DevSecOps
+- Drive Use Case Adoption to Fully Realize Value
+- Differentiate on DevSecOps Platform
+- Strengthen Our SaaS Deployments & Capabilities
+
+DevSecOps stages:
+- Plan
+- Code
+- Build
+- Test
+- Release
+- Deploy
+- Operate
+- Monitor
+- Security
+- Compliance
+
+Personas:
+- Developers, security professionals, and operations professionals are currently the primary personas we focus on, and we tailor our user experience to their needs.
+
+Mitigating low-end disruption:
+- GitLab is not immune to disruption. In some ways, it is a sign of success that GitLab is now at a scale where we have to think about low-end disruption.
+
+Maturity:
+- As we add new categories and stages to GitLab, some areas of the product will be deeper and more mature than others.
+
+Scope:
+- We try to prevent maintaining functionality that is language or platform specific, because they slow down our ability to get results.
+
+Quarterly Objectives and Key Results (OKRs):
+- To make sure our goals are clearly defined and aligned throughout the organization, we make use of OKRs (Objectives and Key Results).
+
+How we plan releases:
+- At GitLab, we strive to be ambitious, maintain a strong sense of urgency, and set aspirational targets with every release.
+
+ML/AI at GitLab:
+- With Gitlab 15.4, Suggested Reviewers was released as our first customer-facing ML/AI technology in production features.
+
+Cross-Stage efforts:
+- GitLab consistently strives to deliver a cohesive experience that enables workflows that span the DevSecOps loop.
+
+GitLab by the numbers:
+- Code contributors: 3,300+
+- Offices: All-remote since inception
+- Consecutive releases every month: 133
+- Team members in 60+ countries: 1,800+
+- Estimated registered users: Over 30 million
+
+GitLab's mission:
+- Our mission is to enable everyone to contribute to and co-create the software that powers our world.
+
+GitLab Culture:
+- We strive to create an all-remote environment where all team members around the world can show up as their full selves, contribute their best, feel their voices are heard and welcomed, and truly prioritize work-life balance.
+
+TeamOps:
+- TeamOps is GitLab's unique people practice which makes teamwork an objective discipline.
+
+Diversity, Inclusion, & Belonging:
+- We work to ensure GitLab is a place where people from every background and circumstance feel like they belong and can thrive.
+
+Iteration:
+- We aim to do the smallest viable and valuable thing, and get it out quickly for feedback.
+
+Transparency:
+- Everything we do is public by default, from our company handbook to the issue trackers for our product.
+
+History of GitLab:
+- 2011: The GitLab project began with a commit
+- 2012: The first version of GitLab CI is created
+- 2014: GitLab is incorporated
+- 2015: Joined Y Combinator and published the GitLab Handbook to our website repository
+- 2016: Announced our master plan and raised $20 million in B round financing
+- 2021: GitLab Inc. became a publicly traded company on the Nasdaq Global Market (NASDAQ: GTLB)
+
+Working at GitLab:
+- If you're interested in being a part of the team, we invite you to learn more about working at GitLab and apply to any open positions that look like a good fit.
+
+GitLab's Quote to Cash systems and processes:
+- GitLab elevates others through knowledge sharing, job access, and our software platform.
+
+Inspired by GitLab:
+- Any company that has been inspired by GitLab’s culture and/or by any part of our handbook can be listed here.
+
+Key Reviews:
+- At most companies, this would be a quarterly meeting for senior function leaders to present priorities, progress, and risk mitigations to the CEO.
+
+KPIs:
+- Every part of GitLab has Key Performance Indicators (KPIs) linked to the company OKRs.
+
+Meet Our Team:
+- More than 3,000 people have contributed to GitLab. The GitLab Inc. team consists of the following 2,312 team members and their 363+ pets.
+
+Organizational Structure:
+- GitLab has at most eight layers in the company structure (Associate/Intermediate/Senior, Manager/Staff, Senior Manager/Principal, Director/Distinguished, Senior Director, VP/Fellow, Executives, Board).
+
+Our stewardship of GitLab:
+- GitLab have an open core business model and generate almost all our revenue with subscriptions to paid tiers.
+
+Pricing model:
+- Most GitLab functionality is and will be available for free in our Free tier. Paid tiers include features targeted for managers, directors, and executives.
+
+Yearlies:
+- Yearlies are the annual goals for the company. Yearlies should have measurable deliverables.

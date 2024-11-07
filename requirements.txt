@@ -1,0 +1,7 @@
+streamlit
+gradio
+transformers
+torch
+requests
+beautifulsoup4
+tf-keras
